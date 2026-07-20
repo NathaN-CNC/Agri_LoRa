@@ -23,7 +23,7 @@ Este projeto simula uma arquitetura de IoT ciberfísica para agricultura de prec
 - Comando e Interface: Envia o comando de atuação de volta ao Node 1 e atualiza em tempo real um display OLED local com o status completo da operação, servindo como painel de monitoramento. Em uma arquitetura de produção, este Gateway estaria conectado à internet, repassando essas métricas para bancos de dados de séries temporais e contêineres de processamento em nuvem.
 <br><br>
 
-## Link - [Video](Agri_LoRa_Simulation.mp4) da Simulação 
+## Link - [Video](https://youtu.be/mICCvtTOHLk) da Simulação 
 
 ## Caso queira abrir a simulação, ela é feita no site WOKWi
   OBS: Para que a simulação funcione corretamente, é necessário usar um programa para virtualizar portas SERIAIS as quais os ESPs irão conectar. Para este projeto foi utilizado o Free Virtual Serial Ports, contudo fique a vontade para usar o que preferir.
