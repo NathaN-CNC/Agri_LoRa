@@ -25,7 +25,7 @@ Este projeto simula uma arquitetura de IoT ciberfísica para agricultura de prec
 ## Para aceder a emulação: A simulação é feita no site WOKWi
   OBS: Para que a simulação funcione corretamente, é necessário usar um programa para virtualizar portas SERIAIS as quais os ESPs irão conectar. Para este projeto foi utilizado o Free Virtual Serial Ports, contudo fique a vontade para usar o que preferir.
 
-  - 1 - Instala o virtualizador de portas seriais
+  - 1 - Instale o virtualizador de portas seriais na sua máquina
   - 2 - Cria uma conexão SERIAL virtual entre duas portas (EX: COM1 e COM2)
   - 3 - Entre no link do [Node 1](https://wokwi.com/projects/470072923601500161)
   - 4 - Entre no link do [Gateway](https://wokwi.com/projects/470055661978825729)
