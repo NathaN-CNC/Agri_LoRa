@@ -106,11 +106,11 @@ void loop() {
         if (resp == "ACK:1") {
           digitalWrite(PUMP_PIN, HIGH);
           pump_state = true;
-          Serial.println("Ordem do Cérebro (Gateway): BOMBA LIGADA");
+          Serial.println("Ordem (Gateway): BOMBA LIGADA");
         } else {
           digitalWrite(PUMP_PIN, LOW);
           pump_state = false;
-          Serial.println("Ordem do Cérebro (Gateway): BOMBA DESLIGADA");
+          Serial.println("Ordem (Gateway): BOMBA DESLIGADA");
         }
         break;
       }
